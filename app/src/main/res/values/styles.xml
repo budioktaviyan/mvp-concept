@@ -7,6 +7,5 @@
 
     <style name="AppTheme.Toolbar" parent="ThemeOverlay.AppCompat.Light">
         <item name="android:textColorPrimary">@color/colorPrimary</item>
-        <item name="android:textColorSecondary">@color/colorPrimary</item>
     </style>
 </resources>
