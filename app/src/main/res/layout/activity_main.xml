@@ -4,7 +4,7 @@
                 xmlns:tools="http://schemas.android.com/tools"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                tools:context="com.baculsoft.mvpconcept.views.data.MainActivity"
+                tools:context="com.baculsoft.mvpconcept.views.main.MainActivity"
                 tools:targetApi="LOLLIPOP">
 
     <android.support.v7.widget.Toolbar
